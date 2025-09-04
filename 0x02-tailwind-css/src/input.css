@@ -4,7 +4,3 @@
 
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 
-@media (max-width: 768px) 
-{ 
-main { grid-template-columns: 1fr; } 
-}
