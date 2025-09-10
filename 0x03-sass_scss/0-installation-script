@@ -1,0 +1,6 @@
+ first i checked which version of node i have it was v22.14.0
+I type this comand in my terminal  this npm install sass -v 3.7.4 then it give me this output 10.9.2
+this means i have already SASS installed already 
+i installed again by typing npm install -g sass comand it was installed 
+then i checked for the version by typing sass --version and it was version
+1.92.1
